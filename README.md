@@ -13,7 +13,7 @@ DEVIL TECH MD BY CYBER LOKU ASHUU 💗
 
 --- 
 
-<a><img src='https://files.catbox.moe/40m83k.jpg'/></a>
+<a><img src='https://files.catbox.moe/ox4pzj.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
