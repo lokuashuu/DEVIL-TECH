@@ -88,13 +88,10 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 <p align="center">
 <a href='https://dashboard.heroku.com/new?template=https://github.com/lokuashuu/DEVIL-TECH/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
-<h4 align="center">2. TaikDrove Free</h4>
+<h4 align="center">4. koyed</h4>
 <p style="text-align: center; font-size: 1.2em;">
+
   
-
-<h4 align="center">3. Koyeb</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
 <p align="center">
 <a href='https://app.koyeb.com/services/deploy?type=git&repository=lokuashuu/DEVIL-TECH&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20KHAN-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
@@ -110,10 +107,13 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 <p align="center">
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
  
+
+
  <h4 align="center">8. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
-* Workflow Codes <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/851">Click Here</a>
+
+* Workflow Codes <a href="https://whatsapp.com/channel/0029Vb4HJcD4inowFiwWsY1S">Click Here</a>
 
 
 
