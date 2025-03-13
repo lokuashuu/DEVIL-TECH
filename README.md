@@ -28,17 +28,17 @@ DEVIL TECH MD BY CYBER LOKU ASHUU 💗
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb4HJcD4inowFiwWsY1S)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{DEVIL TECH MD}/count.svg" alt="lokuashuu :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lokuashuu}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{DEVIL-TECH}/count.svg" alt="lokuashuu :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lokuashuu}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/JawadYTX/KHAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/lokuashuu/DEVIL-TECH"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DEVIL-TECH&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/JawadYTX/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/lokuashuu/DEVIL-TECH"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -48,7 +48,7 @@ DEVIL TECH MD BY CYBER LOKU ASHUU 💗
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/JawadYTX/KHAN-MD/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/lokuashuu/DEVIL-TECH/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-DEVIL-TECH-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
